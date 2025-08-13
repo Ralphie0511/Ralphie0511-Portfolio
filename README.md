@@ -24,6 +24,7 @@ Although I am not too active on this platform, I plan on completing this GitHub 
 
 * Professional writing capabilities
 * Efficient communication skills
+* The ability to learn and adapt with lightning speed and precision
 
 ## Projects
 While I do not add many of my projects to GitHub, the ones that are added here can be found in the [projects folder](projects).
